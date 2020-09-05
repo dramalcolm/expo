@@ -74,4 +74,4 @@ In addition to building your app on your own computer, you can host your updates
 
 ## A glimpse at the future
 
-The next generation of services for Expo apps, Expo Application Services (EAS), will support higher limits and a scalable pricing model for startups and ohter businesses with those needs. This is a long-term engineering project and we hope to have more to share sometime in 2021.
+The next generation of services for Expo apps, Expo Application Services (EAS), will support higher limits and a scalable pricing model for startups and other businesses with those needs. This is a long-term engineering project and we hope to have more to share sometime in 2021.
